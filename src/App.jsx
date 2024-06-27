@@ -43,7 +43,7 @@ function App() {
     <div class="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000"></div>
     <div class="absolute -bottom-20 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-4000"></div>
     <div class="m-8 relative space-y-4">
-        <div className="w-full max-w-2xl mx-auto shadow-xl backdrop-filter backdrop-blur-sm bg-opacity-40 rounded-lg px-4 py-3 text-white">
+        <div className="w-full max-w-2xl mx-auto shadow-2xl backdrop-filter backdrop-blur-sm bg-opacity-40 rounded-lg px-4 py-3 text-white">
                     <h1 className="text-2xl font-bold text-gray-600 text-center mb-8 mt-2">Task Tracker</h1>
                     <div className="mb-4">
                         <TodoForm/>
